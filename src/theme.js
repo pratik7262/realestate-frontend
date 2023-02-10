@@ -75,6 +75,9 @@ export const theme = createTheme({
     background: {
       default: colors.primary[500],
     },
+    green:{
+      main:colors.greenAccent[500]
+    }
   },
   typography: {
     fontFamily: ["Source Sans Pro", "sans-serif"].join(","),
